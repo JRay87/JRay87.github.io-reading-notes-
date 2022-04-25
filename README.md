@@ -1,5 +1,5 @@
 # ***John Rayome*** 
-https://github.com/JRay87
+[https://github.com/JRay87](https://github.com/JRay87)
 
 Hello everyone! My name is John. I am a student with the Code Fellows program with minimal prior experience with software development. I am excited for the opportunity but would be lying if I didn't admit being anxious about the switch. I thought the article regarding ***The Growth Mindset*** was well done and it had some great advice for any of us who are nervous and brand new to this field.
 
