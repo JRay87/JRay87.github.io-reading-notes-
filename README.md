@@ -7,7 +7,7 @@ Hello everyone! My name is John. I am a student with the Code Fellows program wi
   
 The growth mindset is a way of looking at obstacles, not as problems to avoid ***but*** as challenges to better one's self. By giving up or completely avoiding a problem we do ourselves a disservice. The struggle to accomplish something is where the most learning and self-improvement can be done.
 
-### **Some of the my major takeaways were**:
+### **Some of my major takeaways were**:
 
 > - Make the conscious effort to challenge yourself and you'll feel better when all is said and done.
 
