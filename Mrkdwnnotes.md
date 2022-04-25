@@ -1,5 +1,7 @@
 # Markdown
 
+![Markdown](kevin-ku-w7ZyuGYNpRQ-unsplash.jpg)(Photo by Kevin Ku on Unsplash)
+
 > ### ***HTML in a smaller package?***
 
 Markdown is a simple syntax used to code for a website. With markdown you can:
