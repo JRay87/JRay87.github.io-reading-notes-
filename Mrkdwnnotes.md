@@ -18,9 +18,6 @@ Markdown is not just used for simple text but it can also be used to display ima
 >- [ ] <!--Complete homework -->
 >- [x] Relax
 
-
-(How did my shopping list make it on here?) 
-
 Luckily, using Markdown (`<!-- Complete Homework -->`) , people won't see I haven't completed my assignment. 
 
 In summary, Markdown seems to be a useful tool for simple coding tasks but I'm not sure how versatile it is with bigger projects. Can it be used in combination with other languages such a Java, Python, Javascript (etc.,)? It seems to have the same basic functions of HTML but in a simpler format, at least that's what this day-1 student seems to think. I'll have to ask my instructors and get back to you.
