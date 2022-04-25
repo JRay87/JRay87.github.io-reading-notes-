@@ -13,7 +13,7 @@ Using the markodown language you can change the font style to **BOLD** with `**`
 
 Markdown is not just used for simple text but it can also be used to display images, direct traffic and make connections between pages and sections, or keep track of your virtual tasks:
 
->- [x] Bread
+>- [x] [Bread]
 >- [x] Milk
 >- [x] Trashbags
 >- [ ] <!--Deodorant -->
@@ -23,4 +23,6 @@ Markdown is not just used for simple text but it can also be used to display ima
 Luckily, using Markdown, people don't see I still need deodorant. 
 
 In summary, Markdown seems to be a useful tool for simple coding tasks but I'm not sure how versatile it is with bigger projects. Can it be used in combination with other languages such a Java, Python, Javascript (etc.,)? It seems to have the same basic functions of HTML but in a simpler format, at least that's what this day-1 student seems to think. I'll have to ask my instructors and get back to you.
+
+
 
