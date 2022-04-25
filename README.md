@@ -16,4 +16,5 @@ The growth mindset is a way of looking at obstacles, not as problems to avoid **
 > - Search out the assistance, advice, and critiques of your network. It can help put your work into perspective. Do not, however, place value on your work based on the success or failures of others. We are all in this to produce the best product and be the best coders we can be. Helping each other out only makes the group better.
 
 Click [here](Mrkdwnnotes.md) to see what I've learned about Markdown and how it can shape the sites we use.
+
 Click [here](CodersComp.md) to read about the most important tool in the coder's arsenal.
