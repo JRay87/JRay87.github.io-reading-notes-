@@ -1,6 +1,8 @@
 # Markdown
 
-![Markdown](kevin-ku-w7ZyuGYNpRQ-unsplash.jpg)(Photo by Kevin Ku on Unsplash)
+![Markdown](kevin-ku-w7ZyuGYNpRQ-unsplash.jpg)
+
+(Photo by Kevin Ku on Unsplash)
 
 > ### ***HTML in a smaller package?***
 
