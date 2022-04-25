@@ -15,7 +15,7 @@ Markdown is not just used for simple text but it can also be used to display ima
 
 >- [x] Read
 >- [x] Study
->- [ ] <!--Complete homework -->
+>- [ ] <!--Complete Homework -->
 >- [x] Relax
 
 Luckily, using Markdown (`<!-- Complete Homework -->`) , people won't see I haven't completed my assignment. 
