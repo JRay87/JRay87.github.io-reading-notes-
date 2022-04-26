@@ -1,7 +1,6 @@
 # ***John Rayome*** 
-[https://github.com/JRay87](https://github.com/JRay87)
-
 ![Me](ProfilePhoto.jpg)
+[https://github.com/JRay87](https://github.com/JRay87)
 
 Hello everyone! My name is John. I am a student with the Code Fellows program with minimal prior experience with software development. I was in the Air Force for six-years prior to graduating from College. I am excited for this opportunity with Code Fellows but would be lying if I didn't admit being anxious about this pivot. Below I will keep notes from all my classes. If you are new to Software Development I hope that you find this information valuable.
 
