@@ -18,3 +18,5 @@ The growth mindset is a way of looking at obstacles, not as problems to avoid **
 Click [here](Mrkdwnnotes.md) to see what I've learned about Markdown and how it can shape the sites we use.
 
 Click [here](CodersComp.md) to read about the most important tools in the coder's arsenal.
+
+Click [here](GitRepositories.md) to learn some info on Git, Repositories, and how they work.
