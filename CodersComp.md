@@ -7,7 +7,7 @@ Some of the other important functions you should want in your text editor are:
 - *Syntax Highlighting* color codes your text to assist in writing and debugging code.
 - Different color *Theme* options to reduce the strain on the coder's eyes.
 - *Extensions* can open up new coding languages as well as help transition your code between Web Browsers or Operating Systems (if you're working on applications).
-- Creates and organizes files, folders, and extensions for your product. (Larger projects can create a mess of different storages for different assets, )
+- Easy addition of files, folders, and extensions for your product. (Larger projects can create a mess of different storages for different assets)
 
 ![Photo by Irvan Smith on Unsplash](irvan-smith-cwqG1N1AtI0-unsplash.jpg)(Photo by Irvan Smith on Unsplash)
 
