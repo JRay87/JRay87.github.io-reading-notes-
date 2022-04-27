@@ -13,3 +13,5 @@ Click [here](Mrkdwnnotes.md) to see what I've learned about Markdown and how it 
 Click [here](CodersComp.md) to read about the most important tools in the coder's arsenal.
 
 Click [here](GitRepositories.md) to learn some info on Git, Repositories, and how they work.
+
+Click [here](Basicsofhtml.md) to for information on HTML.
