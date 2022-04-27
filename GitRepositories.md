@@ -12,7 +12,7 @@ There are three different types of Version Control Systems. They are:
 
 Based on this knowledge, do you know which type of Version Control System Git is?.....<!--DVCS-->
 
-If you're ready to start your coding journey you can follow a step by step process [here!](https://codefellows.github.io/setup-guide/) 
+If you're ready to start your coding journey you can follow a step by step process to setting up your computer to CodeFellow standards [here!](https://codefellows.github.io/setup-guide/) 
 
 This entry will not get into any of the coding for sites (we'll get into that later). For now let's say you've created your first repository, written your code on your preferred text editing software, and are ready to publish your website. Publishing and editing your website can be done through many Text Editors, but it is important to know that this procedure can also be completed through your Ubuntu terminal.
 
