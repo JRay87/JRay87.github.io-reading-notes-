@@ -12,7 +12,7 @@ Now that your frame is built you can see what aspects you have to code.But what 
 
 HTML (aka HyperText Markup Language) helps form the basic structure of your site. Using a series of "elements" they are able to build and control pieces of content within the site. You can control images, text, and some basic formatting of the site itself. 
 
-## `<p>Look at this!</p>` vs <p>Look at this!</p>
+## `<p>Look at this!</p>` vs <p> Look at this! </p>
 The left hand side is the input of HTML and the right side is the output or what the customer would see on the site. The series of opening and closing brackets (`<p></p>`) around the "content" (Look at this!) create an element. This tells the browser to display the content as a message. 
 
 > - Most html will require both opening and closing brackets. There are some exception to that rule as with images `<img src=images/imgname.jpg alt "ImageName">`. This code would show the desired image with no need for a `</img>` closing tag.
