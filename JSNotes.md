@@ -11,3 +11,7 @@ To use JavaScript you start off by declaring an element as a variable. There are
 >var - used by older platforms, this
 
 >const - this is a value that isn't supposed to cahnge
+
+(Work in Progress)
+
+click [here](README.md) to go back home

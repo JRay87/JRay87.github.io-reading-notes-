@@ -15,3 +15,7 @@ Click [here](CodersComp.md) to read about the most important tools in the coder'
 Click [here](GitRepositories.md) to learn some info on Git, Repositories, and how they interact.
 
 Click [here](Basicsofhtml.md) to for information on planning and building the skeleton of your site.
+
+Click [here](CSSNotes.md) to learn about CSS and its colorful impact on your webpage.
+
+Click [here](JSNotes.md) to do some reading on JavaScript.
