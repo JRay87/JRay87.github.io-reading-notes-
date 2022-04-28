@@ -1,3 +1,23 @@
+# ***Cascading Style Sheets*** (Let's get this place looking nice)
+
+## What is CSS
+
+CSS is a coding syntax that is used to tell the browser how to present the documents to the user (A "document" is a text file structured with markup language). These documents are shown to the user on a browser and these are programmed to translate the code into a website. Hopefully one that is easy on the eyes and even easier to use.
+
+CSS can be added to code for an HTML document in any of the following three ways.
+	- External - This is considered the best way to handle CSS as you do all of your coding in a seperate tab and then add it to your HTML with one simple code. 
+
+> `(INSERT CODE HERE)`
+
+	- Internal - This style can be found useful if there is one page within your repository needing special formatting seperate from the rest of the files. To complete internal CSS you would simply code all your desired CSS formatting directly onto the top of the HTML, maintaining proper CSS syntax.
+
+> `(INSERT CODE HERE)`
+
+	- Inline - Inline is the most difficult form of CSS because the code is placed directly on the element it is modifying. It can quickly cause issues within your html document and also makes it difficult to traverse the code, making debugging all the more difficult. (Long story short, try to keep this to a minimum.) 
+
+> `(INSERT CODE HERE)`
+
+
 ## So you ready to give it a shot?
 
 For the purposes of this practice we are going to focus on External CSS. First things first, make sure you have your website's wireframe handy (It can really help keep your coding on track). To initiate a CSS file you will simply open the repository for the website you are going to be working on, and create a new file within that folder. Keep the name simple and one word just make sure it ends in ".css". After this file is created, insert the file name into the code above and put the line of code in the top of your `<head></head> brackets. 
