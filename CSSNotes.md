@@ -7,16 +7,25 @@ CSS is a coding syntax that is used to tell the browser how to present the docum
 CSS can be added to code for an HTML document in any of the following three ways.
 	- External - This is considered the best way to handle CSS as you do all of your coding in a seperate tab and then add it to your HTML with one simple code. 
 
-> `(INSERT CODE HERE)`
+> `<link rel="stylesheet" href="FILENAME.css">`
 
 	- Internal - This style can be found useful if there is one page within your repository needing special formatting seperate from the rest of the files. To complete internal CSS you would simply code all your desired CSS formatting directly onto the top of the HTML, maintaining proper CSS syntax.
 
-> `(INSERT CODE HERE)`
+	`<html>`
+		`<head>`
+			`<style>`
+	`body{`
+		`background-color: Blue;`
+	}
+`		Etc.,
+			Etc.,
+				Etc.,
+			`</style>`
+		`</head>`
+		
+			
 
 	- Inline - Inline is the most difficult form of CSS because the code is placed directly on the element it is modifying. It can quickly cause issues within your html document and also makes it difficult to traverse the code, making debugging all the more difficult. (Long story short, try to keep this to a minimum.) 
-
-> `(INSERT CODE HERE)`
-
 
 ## So you ready to give it a shot?
 
@@ -27,14 +36,16 @@ Looking at your wireframe (remembering the box method) start from the top and wo
 ` header {
 	border: 5px, solid orange;
 	background-color: blue;
-	color: white
+	color: white;
      }`
 
 To start, "header" shows the browser that this bit of code is focused on any section labled header within the page. Open bracket (its shift+ the key next to P) tells the browser that the way it is to be displayed is coming up. Border (meaning the border around the header box) is to be 5 pixels thick, solid, and orange. Background-color is going to be filled in with a beautiful shade of blue. Lastly "color" means the color of the text used within that section. So if you were to have an html document with the code...
 
-`<header>
-	<p>Let's Go Mets!</p>
-</header>` 
+`<header>`
+
+	`<p>Let's Go Mets!</p>`
+    
+`</header>` 
 
 ...the website would present you with an Amazin' Mets themed banner in the header section of your wireframe. There are so many other ways you can modify the presentation of your site through CSS. Click [here](PUTWEBSITELINKHERE.COM/CSSCHEATSHEET) for a quick list of the various options. Now go have a little fun and mess with your site a little. 
 
