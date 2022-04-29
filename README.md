@@ -19,3 +19,7 @@ Click [here](Basicsofhtml.md) to for information on planning and building the sk
 Click [here](CSSNotes.md) to learn about CSS and its colorful impact on your webpage.
 
 Click [here](JSNotes.md) to do some reading on JavaScript.
+
+Click [here](Functions.md) to do learn about on Functions.
+
+Click [here](Loops.md) to get some information on Operators and Loops.
