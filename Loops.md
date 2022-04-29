@@ -25,10 +25,18 @@ Now that we understand the basics of what IS a function, different operators, an
    
    
    
-   A while loop is even simpler. `while (condition)`
-                                       ` statement`
-    `x=0 while (x<=5){`
+   A while loop is even simpler. 
+   
+   `while (condition)`
+        
+         ` statement`
+
+         Example:
+   
+    `x=0 while (x<=5) {`
+        
         `console log("hi");`
+        
         `x = x+1;`
     `}`
 
