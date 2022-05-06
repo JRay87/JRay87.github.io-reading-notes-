@@ -63,4 +63,3 @@ Assignment 15
 >Click [here](Functions.md) to do learn about on Functions.
 </br>
 > Click [here](Loops.md) to get some information on Operators and Loops.
-</br>
