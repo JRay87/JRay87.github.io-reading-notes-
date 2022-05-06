@@ -40,26 +40,23 @@ Assignment 13
 Assignment 14
 
 Assignment 15
-</br>
-</br>
-</br>
 
 ### *Code 102 Reading Notes* (Apr 25 - Apr 29, 2022)
 
 > Click [here](GrowthMindset.md) to get yourself into the learning mindset.
-</br>
+
 > Click [here](Mrkdwnnotes.md) to see what I've learned about Markdown and how it shapes the sites we use.
-</br>
+
 > Click [here](CodersComp.md) to read about the most important tools in the coder's arsenal.
-</br>
+
 > Click [here](GitRepositories.md) to learn some info on Git, Repositories, and how they interact.
-</br>
+
 > Click [here](Basicsofhtml.md) for information on planning and building the skeleton of your site.
-</br>
+
 > Click [here](CSSNotes.md) to learn about CSS and its colorful impact on your webpage.
-</br>
+
 > Click [here](JSNotes.md) to do some reading on JavaScript.
-</br>
+
 >Click [here](Functions.md) to do learn about on Functions.
-</br>
+
 > Click [here](Loops.md) to get some information on Operators and Loops.
