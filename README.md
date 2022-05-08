@@ -1,6 +1,6 @@
 # ***John Rayome***
 
-![Me](ProfilePhoto.jpg)
+![Me](images/ProfilePhoto.jpg)
 [https://github.com/JRay87](https://github.com/JRay87)
 
 Hello everyone! My name is John. I am a student with the Code Fellows program (now in 201!) with minimal prior experience in software development. This website serves as a repository for the notes I take during my readings as well as an introduction to these topics for anyone who may find themselves in a similar situation. Learning software development can be difficult but hopefully my notes can help someone who may think it's too difficult.  
@@ -11,7 +11,7 @@ Hello everyone! My name is John. I am a student with the Code Fellows program (n
 
 #### (Links will become usable when notes are completed)
 
-[Introductory HTML & JavaScript](class-01.md)
+[Introductory HTML & JavaScript](201/class-01.md)
 
 Assignment 2
 

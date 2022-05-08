@@ -11,7 +11,9 @@ Some of the other important functions you should want in your text editor are:
 
 This functionality (and more) can be found in IDEs (Integrated Development Environments). IDEs have text editors as well as file management, debugging and may be useful as you gain experience and education.
 
-![Photo by Irvan Smith on Unsplash](irvan-smith-cwqG1N1AtI0-unsplash.jpg)(Photo by Irvan Smith on Unsplash)
+![codeblock](images/irvan-smith.jpg)
+
+(Photo by Irvan Smith on Unsplash)
 
 If you're not wanting to find a text editor online, it is possible to achieve the same product using an application like word or notepad. You lose many of the functions and "safety-nets" listed above, but it is doable. Simply ensure you are coding in plain text. This is a setting that removes formatting options for the text such as bold or italics etc., These options can negatively impact the code you are trying to write and it is important to have them off. 
 
