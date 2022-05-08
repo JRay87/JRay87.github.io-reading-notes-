@@ -6,7 +6,7 @@ Wireframe is an important first step when deciding to program a site or applicat
 
 One of the best tools you can use for wireframing is a simple piece of paper and a marker (makes it easier to read from further back). But if you insist on going full digital there are options out there (UxPin, InVision, Wireframe.cc).
 
-Before putting pen(or marker) to paper you should make sure you do research on the product, client, and customers. Putting pertinent data in a cheatsheet can be an easy way to remember key aspects the site/application must have. One you have done the necessary research and have your pertinent data on hand it is time to build out your wireframe. Think of it like a flowchart of a first time user. 
+Before putting pen(or marker) to paper you should make sure you do research on the product, client, and customers. Putting pertinent data in a cheatsheet can be an easy way to remember key aspects the site/application must have. One you have done the necessary research and have your pertinent data on hand it is time to build out your wireframe. Think of it like a flowchart of a first time user.
 
 Now that your frame is built you can see what aspects you have to code.But what are you going to be doing the actual coding with? One of the first coding languages people learn can actually accomplish many of the tasks needed to build the bares bones of your site.
 
