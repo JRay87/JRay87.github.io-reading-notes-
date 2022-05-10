@@ -111,6 +111,8 @@ If elements - If condition = true run script
 
 If else - If condition = true, run script. If = false, run other script. 
 
+# ***Things I want to know more about***
+
 Switch elements - I need more explanation. I understand that it sets levels for the variable and that it runs a script based off the level...but I feel like I'm not wrapping my head around it. 
 
 <!--Finally loops check for condition, if the condition is true it runs the code block. Checks the condition again and if still true, runs the code block. Rinse and repeat. There are a few different types of loops with their own contexts. 
