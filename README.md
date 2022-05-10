@@ -13,7 +13,7 @@ Hello everyone! My name is John. I am a student with the Code Fellows program (n
 
 [Introductory HTML & JavaScript](201/class-01.md)
 
-Assignment 2
+[HTML CSS and Javascript](201/class-02.md)
 
 Assignment 3
 
