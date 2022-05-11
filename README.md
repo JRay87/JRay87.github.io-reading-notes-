@@ -11,11 +11,11 @@ Hello everyone! My name is John. I am a student with the Code Fellows program (n
 
 #### (Links will become usable when notes are completed)
 
-[Introductory HTML & JavaScript](201/class-01.md)
+[Day 1 - Introductory HTML & JavaScript](201/class-01.md)
 
-[HTML CSS and Javascript](201/class-02.md)
+[Day 2 - HTML CSS and Javascript](201/class-02.md)
 
-Assignment 3
+[Day 3 - Lists, Boxes, Review, and New](201/class-03.md)
 
 Assignment 4
 
