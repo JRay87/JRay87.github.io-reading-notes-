@@ -6,7 +6,7 @@ HTML has three different types of lists.
 
 ***Ordered lists*** display information with a numbered list. These are great for recipes, step by step directions, or ranking NL East baseball teams by wins (CAO 10May22)...
 
- <ol>
+` <ol>
 
   <li> NYM 21-10
 
@@ -18,7 +18,7 @@ HTML has three different types of lists.
 
   <li> WSH 10-21
 
-</ol>
+</ol>`
 
 Ordered lists live within `<ol> </ol>` tags utilizing `<li>` tags for each item.
 
@@ -26,7 +26,7 @@ Ordered lists live within `<ol> </ol>` tags utilizing `<li>` tags for each item.
 
 **Mets Facts**
 
-<ul>
+`<ul>
 
   <li> Founded in 1962, the NY Mets replaced the Dodgers and Giants who moved to California.
 
@@ -38,16 +38,16 @@ Ordered lists live within `<ol> </ol>` tags utilizing `<li>` tags for each item.
 
   <li> The Mets play at Citi Field in Flushing, Queens, New York.
 
-</ul>
+</ul>`
 
 Unordered lists live within `<ul> </ul>` tags, again utilizing the `<li>` tags for each item.
 
 Finally, the last type of lists are ***definition lists***. They are used to 
 
-<dl>
+`<dl>
   <dt>Mets</dt>
     <dd>Short for Metropolitans, Mets means <strong>city dwellers</strong></dd>
-</dl>
+</dl>`
 
 ('*Mets*' definitely sounds better in my opinion.)
 
@@ -63,13 +63,13 @@ CSS can manipulate these elements to add color, or affect the placement on the p
 
 CSS elements can be done in three different ways, but in exterior CSS a rule might look something like this:
 
-    art {
+`    art {
       height: 30%;
       min-width: 400px;
       margin-left: 10px;
       padding-top: 5px;
       border: 5px solid blue;
-    }
+    }`
 
 The CSS rule above is for the Article element. It sets the height to be 30% of the browser. The width will not go lower than 400 pixels. There is a margin on the left, a padding on the top, and then a solid blue border around the whole article.
 
@@ -79,12 +79,12 @@ Arrays are a tool used by developers to store multiple values that are related t
 
 Example array:
 
-    var colors;
-      colors=['White', 'Blue', 'Orange'];
+    `var colors;
+      colors=['White', 'Blue', 'Orange'];`
 
 This has given the variable 'colors' as any of those colors. Quick note that due to computer numbering programming the first value is considered '0' for counting purposes. This numbering can then be used if you are trying to access or change the value, as we see below.
 
-    colors[0] = 'Black';
+    `colors[0] = 'Black';`
 
 ## ***JavaScript Chapter 4 cont'd - from Switch elements***
 
@@ -96,7 +96,7 @@ Loops checks the value of a condition. If the condition value is true it runs th
 
 <sub>(My attempt based on ex. p175)</sub> This code, when summoned, would display the grades received for three tests. <sub>The code will run ***for*** the amount of values in the grades array</sub>
 
-      var grades = [95, 76, 97];
+      `var grades = [95, 76, 97];
       var arrayTests = grades.tests;
       var testNumber = 0;
       var msg = '';
@@ -106,29 +106,28 @@ Loops checks the value of a condition. If the condition value is true it runs th
         testNumber = (i + 1);
         msg += 'On test ' + testNumber + 'you scored:';
         msg += grades[i] + '<br />;
-      }
+      }`
 
 while loop - run as long as the condition is true. Example p 176 displays multiplications table. ***While*** the condition "value of variable 'i' is less than 10" is true it will run the computation code and display the message giving the expression and sum.
 
-      var i = 1;
+      `var i = 1;
       var msg = '';
 
       while (i < 10) {
         msg += i + ' x 5 = ' + (i * 5) + '<br />';
         i++;
-      }
-
-      
+      }`  
 
 do while - simlar to while loop, but runs the code at least once even if the condition = false. 
 
  This code will only display the message once because the condition "value of variable 'i' is less than 1" is false. It will always run the code at least once. 
 
-      var i = 1;
+      `var i = 1;
       var msg = '';
 
       do {
         msg += i + ' x 5 = ' + (i * 5) + '<br />';
         i++;
-      } while (i < 1);
+      } while (i < 1);`
+
 <sub>example from p177</sub>
