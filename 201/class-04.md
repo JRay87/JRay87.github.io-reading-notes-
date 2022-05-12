@@ -16,7 +16,7 @@ Links are created using the `<a>` tag. Within the opening tag you need to locate
 
   You can also link to send emails, open in new windows, and link to specific spots within your page as well as specific spots within other pages.
 
-  ## HTML - Chapter 15 - ***Layout***
+## HTML - Chapter 15 - ***Layout***
 
   CSS has two different types of elements; Block, which starts everything on a new line and inline which starts new content on the same line.
 
@@ -50,7 +50,7 @@ Links are created using the `<a>` tag. Within the opening tag you need to locate
 
   Style sheets can be connected to your pages including multiple styles on different pages. You can use the import function on your html page.
   
-  ## JavaScript Chapter 3 (-p 99) ***Functions***
+## JavaScript Chapter 3 (-p 99) ***Functions***
 
 Functions are code designed to perform a specific task. First the script is written declaring the function, including the steps on how it is performed. Later the function can be 'called' without needing to rewrite the script no matter how many times. 
 
@@ -58,7 +58,7 @@ Functions can be similar to loops in that they sometimes need information from t
 
 Functions can be used to get single or multiple values, can be used to declare the value of variables in loops
 
-  ## Article - Pair Programming
+## Article - Pair Programming
 
   Final reading this week was an article by Allie Grampa called *6 Reasons for Pair Programming*. Pair Programming is a concept where programming students share workstations one in the 'driver' position performing the coding, while their partner acts as a navigator, keeping the driver on course with their code and helping them navigate through difficult sections, looking out for errors and typos.
 
