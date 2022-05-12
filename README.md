@@ -17,7 +17,7 @@ Hello everyone! My name is John. I am a student with the Code Fellows program (n
 
 [Day 3 - Lists, Boxes, Review, and New](201/class-03.md)
 
-Assignment 4
+[Day 4 - Links, Layout, Functions, and Pair Programming](class-04.md)
 
 Assignment 5
 
