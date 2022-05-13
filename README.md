@@ -19,7 +19,7 @@ Hello everyone! My name is John. I am a student with the Code Fellows program (n
 
 [Day 4 - Links, Layout, Functions, and Pair Programming](201/class-04.md)
 
-Assignment 5
+[Day 5 - Images, Color, Text and Gifs/Imgs](201/class-05.md)
 
 Assignment 6
 
