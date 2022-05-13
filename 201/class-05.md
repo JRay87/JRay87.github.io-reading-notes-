@@ -80,11 +80,11 @@ Gifs:
 - Generaly '*unsuitable for images with transparent backgrounds.*'
 - Supports 256 colors
 
-
-
 ## What I want to know more about
 
 - Opacity values impact on the element
 - What is focus?
 
-<iframe src="https://giphy.com/embed/TGWklzt8RZvjV16O8n" width="360" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/siliconvalleyhbo-TGWklzt8RZvjV16O8n">via GIPHY</a></p>
+<img src="https://media.giphy.com/media/TGWklzt8RZvjV16O8n/giphy.gif" alt="Silicon Valley gif" title="Silicon Valley gif"/>
+
+gif found on [giphy.com](giphy.com)
