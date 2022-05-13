@@ -9,7 +9,7 @@ Hello everyone! My name is John. I am a student with the Code Fellows program (n
 
 ### *Code 201 Reading Notes* (May 9 - Jun 3, 2022)
 
-#### (Links will become usable when notes are completed)
+#### (More links will become visable as 201 proceeds)
 
 [Day 1 - Introductory HTML & JavaScript](201/class-01.md)
 
@@ -21,25 +21,25 @@ Hello everyone! My name is John. I am a student with the Code Fellows program (n
 
 [Day 5 - Images, Color, Text and Gifs/Imgs](201/class-05.md)
 
-Assignment 6
+<!-- Assignment 6 -->
 
-Assignment 7
+<!-- Assignment 7 -->
 
-Assignment 8
+<!-- Assignment 8 -->
 
-Assignment 9
+<!-- Assignment 9 -->
 
-Assignment 10
+<!-- Assignment 10 -->
 
-Assignment 11
+<!-- Assignment 11 -->
 
-Assignment 12
+<!-- Assignment 12 -->
 
-Assignment 13
+<!-- Assignment 13 -->
 
-Assignment 14
+<!-- Assignment 14 -->
 
-Assignment 15
+<!-- Assignment 15 -->
 
 ### *Code 102 Reading Notes* (Apr 25 - Apr 29, 2022)
 
