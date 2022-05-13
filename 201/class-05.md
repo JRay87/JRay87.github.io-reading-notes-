@@ -57,7 +57,34 @@ There are tricks to target very specific elements. They are called attribute sel
 
 ## JPEG vs PNG vs GIF by *Rahul Nanwani*
 
+### [Link to the article](https://blog.imagekit.io/jpeg-vs-png-vs-gif-which-image-format-to-use-and-when-c8913ae3e01d)
+
+JPEGS:
+- Best for natural scenes or vibrant photos. 
+- It is a '*lossy compression specification*' and achieves 1:10 compression ratio.
+- Don't support transparency.
+- Can support about 16mil different colors
+- Doesn't support animations
+
+PNG:
+- Best for images needing transparency or images with text 
+- '*retain higher quality...than JPEG...also occupy(s) more space on the disk*' 
+- A good option for images with text, logos etc., 
+- Allow transparency in two ways. Partial '*makes the edges blend smoothly into the background*' while index makes a single color transparent.
+- PNG8 supports 256 colors, PNG24 - 16mil
+- Doesn't support animations
+
+
+Gifs:
+- Images with animation
+- Generaly '*unsuitable for images with transparent backgrounds.*'
+- Supports 256 colors
+
+
+
 ## What I want to know more about
 
 - Opacity values impact on the element
 - What is focus?
+
+<iframe src="https://giphy.com/embed/TGWklzt8RZvjV16O8n" width="360" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/siliconvalleyhbo-TGWklzt8RZvjV16O8n">via GIPHY</a></p>
