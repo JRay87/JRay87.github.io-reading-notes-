@@ -85,6 +85,6 @@ Gifs:
 - Opacity values impact on the element
 - What is focus?
 
-<img src="https://media.giphy.com/media/TGWklzt8RZvjV16O8n/giphy.gif" alt="Silicon Valley gif" title="Silicon Valley gif"/>
+<img src="https://media.giphy.com/media/TGWklzt8RZvjV16O8n/giphy.gif" width=200px  alt="Silicon Valley gif" title="Silicon Valley gif"/>
 
 gif found on [giphy.com](giphy.com)
