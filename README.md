@@ -21,7 +21,7 @@ Hello everyone! My name is John. I am a student with the Code Fellows program (n
 
 [Day 5 - Images, Color, Text, and Gifs/Imgs](201/class-05.md)
 
-[Day 6 - Understanding the Problem Domain and Objects](201/class-06.md)
+[Day 6 - Understanding the Problem Domain, Object literals, and The DOM](201/class-06.md)
 
 <!-- Assignment 7 -->
 

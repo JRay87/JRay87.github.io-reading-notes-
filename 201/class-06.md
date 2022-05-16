@@ -46,6 +46,8 @@ Equality checks (`===`/`!==`) can be problematic with object references because 
 
 ## JS Chapter 3 - *Object Literals* (100-105)
 
+***Objects group together a set of variables and functions to create a model of something...from the real world***(p100)
+
 ***Objects are everything inside the curly brackets of a variable.***
 
 In objects, 'properties' are comprised of keys and values. (Remember the values in objects can be mutated.)
