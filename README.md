@@ -23,7 +23,7 @@ Hello everyone! My name is John. I am a student with the Code Fellows program (n
 
 [Day 6 - Understanding the Problem Domain, Object literals, and The DOM](201/class-06.md)
 
-<!-- Assignment 7 -->
+[Day 7 - Domain Modeling, Tables, and Functions, Methods, and Objects (106-144)](201/class-07.md)
 
 <!-- Assignment 8 -->
 
