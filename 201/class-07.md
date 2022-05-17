@@ -55,5 +55,11 @@ To update the values use dot notatioon or square brackets. `hotel.name = 'Park'`
 
 By using a constructor function you can build multiple objects using the same piece of code. This is less demanding on the memory of the computer and will run smoother.
 
+### The three built-in objects
 
+Browser Object Model - This represents the current window, contains objects that describe the browser, and is the topmost object in the model.
+
+Document Object Model - This represents the current webpage loaded in the browser
+
+Global JavaScript Objects - This list includes strings, number, boolean, undefined, null, and objects. Working with these valuables allows you to write methods with the values of the data types.
 
