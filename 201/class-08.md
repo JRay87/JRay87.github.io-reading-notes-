@@ -22,3 +22,23 @@ Other layouts include:
 ***Multicolumn*** - Splits long columns into multiple columns to help with layout.
 
 ***Position*** - *changes how an element behaves in the normal flow of the document, and how it relates to other elements* (relative, absolute, fixed, sticky, static)
+
+## HTML Chapter 15 - Layout
+
+Elements in HTML live within an invisible box that can be manipulateded by the developer to change the browser's presentation to the user. These blocks can have different types of positioning:
+
+ Normal(block elements start content on new lines)
+ 
+ Relative(shifts content to desired side of the box)
+ 
+ Absolute(stays in place while content moves during mouse scroll)
+ 
+ Fixed(combines relative and absolute)
+ 
+ Floating(fixes an element to a side and the other content flow around it)
+
+ Child elements will inherit the parent element rules.
+
+ Layouts can be *fixed* (use pixel values to state size) or *liquid* (uses percentages to scale content to size of browser window)
+
+ link style sheets to your html to have the browser display the desired formatting rules
