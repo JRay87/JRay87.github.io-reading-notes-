@@ -25,7 +25,7 @@ Hello everyone! My name is John. I am a student with the Code Fellows program (n
 
 [Day 7 - Domain Modeling, Tables, and Functions, Methods, and Objects (106-144)](201/class-07.md)
 
-<!-- Assignment 8 -->
+[Day 8 - CSS 2: The Re-designing](201/class-08.md)
 
 <!-- Assignment 9 -->
 
