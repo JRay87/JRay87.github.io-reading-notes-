@@ -27,7 +27,7 @@ Hello everyone! My name is John. I am a student with the Code Fellows program (n
 
 [Day 8 - CSS 2: The Re-designing](201/class-08.md)
 
-<!-- Assignment 9 -->
+[Day 9 - Forms and JavaScript Events](201/class-09.md)
 
 <!-- Assignment 10 -->
 
