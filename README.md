@@ -29,17 +29,17 @@ Hello everyone! My name is John. I am a student with the Code Fellows program (n
 
 [Day 9 - Forms and JavaScript Events](201/class-09.md)
 
-<!-- Assignment 10 -->
+<!-- [Day 10 - ](201/class-10.md) -->
 
-<!-- Assignment 11 -->
+<!-- [Day 11 - ](201/class-11.md) -->
 
-<!-- Assignment 12 -->
+<!-- [Day 12 - ](201/class-12.md) -->
 
-<!-- Assignment 13 -->
+<!-- [Day 13 - ](201/class-13.md) -->
 
-<!-- Assignment 14 -->
+<!-- [Day 14 - ](201/class-14.md) -->
 
-<!-- Assignment 15 -->
+<!-- [Day 15 - ](201/class-15.md) -->
 
 ### *Code 102 Reading Notes* (Apr 25 - Apr 29, 2022)
 
