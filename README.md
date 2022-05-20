@@ -29,7 +29,7 @@ Hello everyone! My name is John. I am a student with the Code Fellows program (n
 
 [Day 9 - Forms and JavaScript Events](201/class-09.md)
 
-<!-- [Day 10 - ](201/class-10.md) -->
+[Day 10 - Handling Errors & Debugging](201/class-10.md)
 
 <!-- [Day 11 - ](201/class-11.md) -->
 
