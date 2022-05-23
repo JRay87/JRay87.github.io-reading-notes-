@@ -31,7 +31,7 @@ Hello everyone! My name is John. I am a student with the Code Fellows program (n
 
 [Day 10 - Handling Errors & Debugging](201/class-10.md)
 
-<!-- [Day 11 - ](201/class-11.md) -->
+[Day 11 - Assorted Topics](201/class-11.md)
 
 <!-- [Day 12 - ](201/class-12.md) -->
 
