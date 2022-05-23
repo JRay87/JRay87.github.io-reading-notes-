@@ -29,3 +29,12 @@ Also in this chapter was information on Domain names and hosting services. They 
 Flash was developed to handle animations and allowed developers to play audio and video on webpages. It is no longer supported since the transtition to HTML 5 for these services.
 
 ## ***Article** - Video and Audio APIs*
+
+As I mentioned above the transition to HTML 5 brought about the loss of flash. HTML 5 instituted `audio` and `video` elements. It allows the developer to link to a seperate browser with the video (if the user is on an older browser that doesn't support HTML 5) add controls like pause/ff/etc.,.
+
+The visual features of the video player (as well as the controls) can be modified through CSS rules (put the media element within a div tag) to include opacity and can have hover effects to make it more visible.
+
+Using JavaScript and `eventListeners`/`Handlers` you code the buttons to function as desired (play/pause, stop, skip forward/back). Be sure to clear any other functions when initializing your desired JS rule.
+
+JavaScript allows for time tracking, scrolling, etc., 
+
