@@ -33,7 +33,7 @@ Hello everyone! My name is John. I am a student with the Code Fellows program (n
 
 [Day 11 - Assorted Topics](201/class-11.md)
 
-<!-- [Day 12 - ](201/class-12.md) -->
+[Day 12 - ChArticles](201/class-12.md)
 
 <!-- [Day 13 - ](201/class-13.md) -->
 
