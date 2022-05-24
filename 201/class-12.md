@@ -1,9 +1,15 @@
-# ChArticles
+# ***ChArticles***
 
-## Article 1 - Chart.JS
+## ***Article 1** - Chart.JS - Sara Vieira*
 
 Charts are great ways to display lots of information in small areas. It relies on visual representation of data.
 
-After creating a canvas element, code is used to access the data and then the desired chart is also listed. Options include chart, line, bar, etc.,
+First you create a canvas element, setting the width and height of the canvas. From there you need to code in access to the canvas for your javascript (put it in the footer). Also include chart, line, bar, etc., and the variables. 
 
-The ways the specific chart is displayed can be modified with css.
+Then in JavaScript you access the variable from before and can code in the display properties you are wanting to show.
+
+In a line chart you put the points in an array for the chart to pull from. A Pie chart has each value coded separately for individual variable display control; bar charts have the data points in an array under the desired display style.
+
+
+
+## ***Article 2** - Creating a Chart (chart.js)*
