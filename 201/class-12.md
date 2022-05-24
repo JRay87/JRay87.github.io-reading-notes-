@@ -13,3 +13,5 @@ In a line chart you put the points in an array for the chart to pull from. A Pie
 
 
 ## ***Article 2** - Creating a Chart (chart.js)*
+
+This article was a great example of producing a bar chart. Using six values the the 'data' array they coded six bars to visually represent the data on the screen.
