@@ -44,3 +44,9 @@ Gradients can be used as a line as with `createLinearGradient` (needing the star
 Patterns - `repeat`, `repeat-x`, `repeat-y` repeats the image along both, only horizontal, and only vertical planes.
 
 ## ***Article 6** - Drawing Text*
+
+Canvas also alows the developer to draw text on the element. `fillText(text, x, y, [, maxwidth])`-*from article* draws the text supplied in the 'text' value, starting at the x,y coordinates with a max width of whatever the developer supplies.
+
+`strokeText` does the same but with only the outline of the letter (no fill)
+
+The text can be modified from there with `font = value` value  designating the font used and its size. `textAlign` will align the text within the canvas element. `textBaseline` modifies the baseline of the font. Finally `direction` impacts the directionality of the text.
