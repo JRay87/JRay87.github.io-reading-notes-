@@ -22,4 +22,8 @@ HTML5 stores its data in the local browser in key/value pairs with both values b
 
 "Trapping" the storage happens when the browser gets a new "snapshot" of the key/value pairs following a change to data stored in the local storage. This is done with the `storage` function(? - was this just the name used for the example?).
 
-HTML5 stores up to 5MB of user data in local storage and (as of 2011) can not be expanded
+HTML5 stores up to 5MB of user data in local storage and (as of 2011) can not be expanded.
+
+## I'd like to know:
+
+What changes have happened since 2011 to HTML5 and local storage?
