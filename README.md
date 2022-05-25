@@ -35,7 +35,7 @@ Hello everyone! My name is John. I am a student with the Code Fellows program (n
 
 [Day 12 - ChArticles](201/class-12.md)
 
-<!-- [Day 13 - ](201/class-13.md) -->
+[Day 13 - Local Storage](201/class-13.md)
 
 <!-- [Day 14 - ](201/class-14.md) -->
 
