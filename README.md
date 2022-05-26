@@ -37,7 +37,7 @@ Hello everyone! My name is John. I am a student with the Code Fellows program (n
 
 [Day 13 - Local Storage](201/class-13.md)
 
-<!-- [Day 14 - ](201/class-14.md) -->
+[Day 14 - Transitions and Animations](201/class-14.md)
 
 <!-- [Day 15 - ](201/class-15.md) -->
 
