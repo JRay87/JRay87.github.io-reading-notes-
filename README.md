@@ -1,15 +1,13 @@
-# ***John Rayome***
+# Reading Notes
 
 ![Me](images/ProfilePhoto.jpg)
 [https://github.com/JRay87](https://github.com/JRay87)
 
 Hello everyone! My name is John. I am a student with the Code Fellows program (now in 201!) with minimal prior experience in software development. This website serves as a repository for the notes I take during my readings as well as an introduction to these topics for anyone who may find themselves in a similar situation. Learning software development can be difficult but hopefully my notes can help someone who may think it's too difficult.  
 
-## *Table of Contents*
+## *Code 301 - Intermediate Software Development*
 
-### *Code 201 Reading Notes* (May 9 - Jun 3, 2022)
-
-#### (More links will become visable as 201 proceeds)
+## *Code 201 - Foundations of Software Development*
 
 [Day 1 - Introductory HTML & JavaScript](201/class-01.md)
 
@@ -39,9 +37,7 @@ Hello everyone! My name is John. I am a student with the Code Fellows program (n
 
 [Day 14 - The Perfect Team, Transitions, and Animations](201/class-14.md)
 
-<!-- [Day 15 - ](201/class-15.md) -->
-
-### *Code 102 Reading Notes* (Apr 25 - Apr 29, 2022)
+## *Code 102 - Intro to Software Development*
 
 > Click [here](102/zzGrowthMindset.md) to get yourself into the learning mindset.
 
