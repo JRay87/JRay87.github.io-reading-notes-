@@ -7,6 +7,8 @@ Hello everyone! My name is John. I am a student with the Code Fellows program (n
 
 ## *Code 301 - Intermediate Software Development*
 
+[Day 1 - Introduction to React and Components](301/Reading-1.md)
+
 ## *Code 201 - Foundations of Software Development*
 
 [Day 1 - Introductory HTML & JavaScript](201/class-01.md)
@@ -39,20 +41,20 @@ Hello everyone! My name is John. I am a student with the Code Fellows program (n
 
 ## *Code 102 - Intro to Software Development*
 
-> Click [here](102/zzGrowthMindset.md) to get yourself into the learning mindset.
+Click [here](102/zzGrowthMindset.md) to get yourself into the learning mindset.
 
-> Click [here](102/zzMrkdwnnotes.md) to see what I've learned about Markdown and how it shapes the sites we use.
+Click [here](102/zzMrkdwnnotes.md) to see what I've learned about Markdown and how it shapes the sites we use.
 
-> Click [here](102/zzCodersComp.md) to read about the most important tools in the coder's arsenal.
+Click [here](102/zzCodersComp.md) to read about the most important tools in the coder's arsenal.
 
-> Click [here](102/zzGitRepositories.md) to learn some info on Git, Repositories, and how they interact.
+Click [here](102/zzGitRepositories.md) to learn some info on Git, Repositories, and how they interact.
 
-> Click [here](102/zzBasicsofhtml.md) for information on planning and building the skeleton of your site.
+Click [here](102/zzBasicsofhtml.md) for information on planning and building the skeleton of your site.
 
-> Click [here](102/zzCSSNotes.md) to learn about CSS and its colorful impact on your webpage.
+Click [here](102/zzCSSNotes.md) to learn about CSS and its colorful impact on your webpage.
 
-> Click [here](102/zzJSNotes.md) to do some reading on JavaScript.
+Click [here](102/zzJSNotes.md) to do some reading on JavaScript.
 
->Click [here](102/zzFunctions.md) to do learn about on Functions.
+Click [here](102/zzFunctions.md) to do learn about on Functions.
 
-> Click [here](102/zzLoops.md) to get some information on Operators and Loops.
+Click [here](102/zzLoops.md) to get some information on Operators and Loops.
