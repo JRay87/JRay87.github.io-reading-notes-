@@ -28,7 +28,7 @@ Properties (or 'props') are used to pass data from parent components to their ch
 
 ### How are props used in React?
 
-Define an attribute and its value.
+Define an attribute and its value. (examples from [Cem Eygi's article](https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0#:~:text=%E2%80%9CProps%E2%80%9D%20is%20a%20special%20keyword,way%20from%20parent%20to%20child))
 
  `<ChildComponent text={"I'm the 1st child"} />`
 
