@@ -9,6 +9,8 @@ Hello everyone! My name is John. I am a student with the Code Fellows program (n
 
 [Day 1 - Introduction to React and Components](301/Reading-1.md)
 
+[Day 2 - React lifecycle and its state vs Props](301/Reading-2.md)
+
 ## *Code 201 - Foundations of Software Development*
 
 [Day 1 - Introductory HTML & JavaScript](201/class-01.md)
