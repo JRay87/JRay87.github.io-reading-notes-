@@ -14,7 +14,7 @@ What is the very first thing to happen in the lifecycle of React?
 
 Put the following things in the order that they happen: componentDidMount, render, constructor, componentWillUnmount, React Updates 
 
-- constructor, render, React Updates, componentDidMount, componentWillUnmount
+- constructor, render,componentDidMount, React Updates, componentWillUnmount
 
 What does componentDidMount do?
 
