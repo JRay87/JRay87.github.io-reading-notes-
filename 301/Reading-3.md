@@ -14,7 +14,7 @@ Using the `map()` function and curly braces `{ }` we can then assign the values 
 
 ### Each list item needs a unique _____
 
-    Key. ("a special string attribute you need to include when creating lists of elements" - from article). Keys must be unique within their array, not necessary to make globally unique keys.
+Key. ("a special string attribute you need to include when creating lists of elements" - from article). Keys must be unique within their array, not necessary to make globally unique keys.
 
 ### What is the purpose of a key?
 
