@@ -62,7 +62,7 @@ This example takes the array 'oldStartingRotation' and adds it to the array 'new
 
 `const baseball = {...mets,...yankees}`
 
-`console.log(baseball)` --> logs Object{mets: "rule", yankees:"drool"}
+`console.log(baseball)` --> logs Object{mets: "rule", yankees: "drool"}
 
 ## How to Pass Functions Between Components
 
@@ -78,7 +78,7 @@ The increment function takes the value of the state and adds one to the value of
 
 ### How can you pass a method from a parent component into a child component?
 
-Create an reference to the function within the object that is accessed by the new component. Then in the new object you can use 'referencedFunction={this.referencedFunction}' (using whatever name you want, just make sure to remember your naming scheme)
+Create an reference to the function within the object that is accessed by the new component. Then in the new object you can use `referencedFunction={this.referencedFunction}` (using whatever name you want, just make sure to remember your naming scheme)
 
 ### How does the child component invoke a method that was passed to it from a parent component?
 
