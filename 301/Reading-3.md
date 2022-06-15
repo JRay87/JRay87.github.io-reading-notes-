@@ -1,4 +1,4 @@
-# ***Day 3** - DAY 3 TITLE*
+# ***Day 3** - map, spread, and passing functions between components*
 
 ## ***React Docs** - [lists and keys](https://reactjs.org/docs/lists-and-keys.html)*
 
