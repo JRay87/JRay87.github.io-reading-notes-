@@ -46,11 +46,11 @@ This example uses the spread operator to combine the array 'startingRotation' an
 
 ### Give an example of using the spread operator to add a new item to an array
 
-`const oldStartingRotation = ['deGrom','Carrasco','Walker','Megill']`
+`const twentyOneRotation = ['deGrom','Carrasco','Walker','Megill']`
 
-`const newStartingRotation = ['Scherzer','Bassitt',...oldStartingRotation]`
+`const twentyTwoRotation = ['Scherzer','Bassitt',...twentyOneRotation]`
 
-`console.log(newStartingRotation)`
+`console.log(twentyTwoRotation)`
 
 This example takes the array 'oldStartingRotation' and adds it to the array 'newStartingRotation' using the spread operator
 
