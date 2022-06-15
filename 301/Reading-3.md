@@ -22,7 +22,7 @@ Keys help React keep track of when/how items have been modified or deleted. This
 
 ## ***How to use the Spread Operator** - Dr. Derek Austin*
 
-### This section discussed... This is important because...
+### Understanding how spread can be used to modify multiple arrays can be used to take smaller pieces of code and data to build your website through components, and can also be used to keep track of the data within the arrays.
 
 ### What is the spread operator?
 
@@ -66,17 +66,24 @@ This example takes the array 'oldStartingRotation' and adds it to the array 'new
 
 ## How to Pass Functions Between Components
 
+### Understanding how functions can be passed and called in new objects/components can help build efficient dry code and helps speed up the development process.
+
 ### In the video, what is the first step that the developer does to pass functions between components?
 
-
+To pass functions between components the developer initially created an element in the object that is accessed in the new component. Then it is called in the child component.
 
 ### In your own words, what does the increment function do?
 
-
+The increment function takes the value of the state and adds one to the value of the state.
 
 ### How can you pass a method from a parent component into a child component?
 
-
+Create an reference to the function within the object that is accessed by the new component. Then in the new object you can use 'referencedFunction={this.referencedFunction}' (using whatever name you want, just make sure to remember your naming scheme)
 
 ### How does the child component invoke a method that was passed to it from a parent component?
 
+it calls is using `this.props.referencedFunction(this.props.anyPassedArguments)`
+
+## Things I want to know more about
+
+What is the purpose of using spread when simply combining two arrays? I know it is faster than parsing, pushing, etc., but if we simply are combining the data is it necessary to break them down into their individual values?
