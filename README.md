@@ -11,6 +11,8 @@ Hello everyone! My name is John. I am a student with the Code Fellows program (n
 
 [Day 2 - React lifecycle and its state vs Props](301/Reading-2.md)
 
+[Day 3 - map, spread, and passing functions between components](301/Reading-3.md)
+
 ## *Code 201 - Foundations of Software Development*
 
 [Day 1 - Introductory HTML & JavaScript](201/class-01.md)
