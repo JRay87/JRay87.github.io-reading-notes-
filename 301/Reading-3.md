@@ -20,7 +20,7 @@ Key. ("a special string attribute you need to include when creating lists of ele
 
 Keys help React keep track of when/how items have been modified or deleted. This gives the elements "a stable identity"(from the article)
 
-## ***How to use the Spread Operator** - Dr. Derek Austin*
+## ***How to use the Spread Operator** - [Dr. Derek Austin](https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab)*
 
 ### Understanding how spread can be used to modify multiple arrays can be used to take smaller pieces of code and data to build your website through components, and can also be used to keep track of the data within the arrays.
 
@@ -64,7 +64,7 @@ This example takes the array 'oldStartingRotation' and adds it to the array 'new
 
 `console.log(baseball)` --> logs Object{mets: "rule", yankees: "drool"}
 
-## How to Pass Functions Between Components
+## [How to Pass Functions Between Components](https://www.youtube.com/watch?v=c05OL7XbwXU)
 
 ### Understanding how functions can be passed and called in new objects/components can help build efficient dry code and helps speed up the development process.
 
