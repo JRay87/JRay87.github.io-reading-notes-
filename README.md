@@ -13,6 +13,8 @@ Hello everyone! My name is John. I am a student with the Code Fellows program (n
 
 [Day 3 - map, spread, and passing functions between components](301/Reading-3.md)
 
+[Day 4 - Controlled components and Ternary operators](301/Reading-4.md)
+
 ## *Code 201 - Foundations of Software Development*
 
 [Day 1 - Introductory HTML & JavaScript](201/class-01.md)
