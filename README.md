@@ -15,6 +15,8 @@ Hello everyone! My name is John. I am a student with the Code Fellows program (n
 
 [Day 4 - Controlled components and Ternary operators](301/Reading-4.md)
 
+[Day 5 - Thinking in React and Higher-Order Functions](301/Reading-5.md)
+
 ## *Code 201 - Foundations of Software Development*
 
 [Day 1 - Introductory HTML & JavaScript](201/class-01.md)
